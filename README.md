@@ -17,11 +17,11 @@ A custom-built backtesting engine to demonstrate how event-driven backtesting wo
 
 ### Architecture
 
-**Class Diagram**
+#### Class Diagram
 <img width="877" height="509" alt="image" src="https://github.com/user-attachments/assets/00049248-de28-49fb-b477-53291f621030" />
 
 
-**Core Event Loop**
+#### Core Event Loop
 <img width="559" height="607" alt="image" src="https://github.com/user-attachments/assets/33d11166-c7b8-4b71-a54e-25e015d796ee" />
 
 
